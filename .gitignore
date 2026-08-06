@@ -1,0 +1,11 @@
+# Arquivos de trabalho local (não fazem parte da entrega)
+prompt.md
+contexto.md
+projeto.md
+
+# Sistema operacional / editores
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
