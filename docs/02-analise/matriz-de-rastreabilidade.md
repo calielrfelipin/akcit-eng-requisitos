@@ -143,9 +143,10 @@ Todas as 33 regras têm ponto de aplicação. Nenhuma regra ficou órfã.
 | UC-02 Realizar inventário | RF-21, RF-22, RF-23, RF-26 | RN-05, RN-26, RN-27, RN-28 | US-17, US-18 |
 | UC-03 Repor a partir de alerta | RF-15, RF-17, RF-18, RF-19, RF-20, RF-36, RF-38 | RN-11, RN-13, RN-14, RN-15, RN-17, RN-18, RN-31, RN-32 | US-13, US-15, US-16, US-27, US-28 |
 
-Os três casos de uso, somados, exercitam 22 das 33 regras de negócio. As 11 restantes concentram-se em
-cadastro, permissão e devoluções — fluxos lineares, adequadamente cobertos por história e critério de
-aceitação.
+Os três casos de uso, somados, exercitam 20 das 33 regras de negócio. As 13 restantes (RN-03, RN-08,
+RN-09, RN-10, RN-12, RN-16, RN-20, RN-21, RN-24, RN-25, RN-29, RN-30 e RN-33) concentram-se em
+cadastro, permissão, perdas e devoluções — fluxos lineares, adequadamente cobertos por história e
+critério de aceitação.
 
 ---
 

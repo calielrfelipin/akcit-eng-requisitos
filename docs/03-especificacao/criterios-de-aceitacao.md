@@ -6,7 +6,7 @@ Critérios em formato **Dado / Quando / Então** (*Given / When / Then*) para as
 **Convenção de identificação:** `CA-<US>.<n>` — por exemplo, `CA-07.3` é o terceiro critério da
 história US-07.
 
-**Cobertura:** as 17 histórias `Must` estão detalhadas com cenários de sucesso, alternativos e de
+**Cobertura:** as 18 histórias `Must` estão detalhadas com cenários de sucesso, alternativos e de
 exceção. As histórias `Should` e `Could` trazem apenas os cenários essenciais, a serem expandidos no
 refinamento da *sprint* correspondente — expandir agora produziria especificação que provavelmente
 mudará quando as questões de

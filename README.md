@@ -15,7 +15,7 @@ docs/
 ├── 01-elicitacao/
 │   └── documento-de-elicitacao.md      Artefato de entrada: 14 falas e 9 pontos em aberto
 ├── 02-analise/
-│   ├── requisitos-funcionais.md        40 RFs com origem, épico e priorização MoSCoW
+│   ├── requisitos-funcionais.md        44 RFs com origem, épico e priorização MoSCoW
 │   ├── requisitos-nao-funcionais.md    30 RNFs, cada um com critério de verificação
 │   ├── regras-de-negocio.md            33 regras + matriz de permissões por perfil
 │   ├── lacunas-e-ambiguidades.md       15 questões abertas e as premissas adotadas
@@ -41,7 +41,7 @@ determinou o que seria produzido.
 
 | Artefato | Prioridade | O que representa |
 |----------|------------|------------------|
-| Requisitos funcionais catalogados | Alta | 40 requisitos com origem rastreável, agrupados em 7 épicos e priorizados por MoSCoW |
+| Requisitos funcionais catalogados | Alta | 44 requisitos com origem rastreável, agrupados em 7 épicos e priorizados por MoSCoW |
 | Regras de negócio explícitas | Alta | 33 regras classificadas em invariante, cálculo, autorização e processo, mais a matriz de permissões |
 | Requisitos não funcionais com métrica | Alta | 30 requisitos de desempenho, segurança, auditabilidade, disponibilidade, usabilidade, privacidade e manutenibilidade |
 | Registro de lacunas e ambiguidades | Alta | 15 questões abertas, com tipo, impacto, pergunta ao stakeholder e premissa adotada |
@@ -175,11 +175,11 @@ em aberto.
 | Métrica | Valor |
 |---------|------:|
 | Falas de stakeholders analisadas | 14 |
-| Requisitos funcionais catalogados | 40 (18 `Must`) |
+| Requisitos funcionais catalogados | 44 (21 `Must`, 4 `Won't`) |
 | Requisitos não funcionais propostos | 30 |
 | Regras de negócio explicitadas | 33 |
 | Questões abertas registradas | 15 (6 bloqueantes do MVP) |
-| Histórias de usuário | 31 / 154 pontos |
+| Histórias de usuário | 31 / 155 pontos |
 | Casos de uso detalhados | 3 |
 
 **Verificações de coerência realizadas:** as 14 falas da elicitação têm requisito correspondente; as

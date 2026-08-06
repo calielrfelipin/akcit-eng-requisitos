@@ -301,10 +301,14 @@ e governado por [regras-de-negocio.md](../02-analise/regras-de-negocio.md).
 
 | Prioridade | Histórias | Pontos |
 |------------|----------:|-------:|
-| Must | 17 | 82 |
-| Should | 8 | 44 |
-| Could | 6 | 28 |
-| **Total** | **31** | **154** |
+| Must | 18 | 89 |
+| Should | 9 | 49 |
+| Could | 4 | 17 |
+| **Total** | **31** | **155** |
+
+Das 155 pontos, 138 estão alocados nas seis *sprints* propostas abaixo. Os 17 pontos restantes
+(US-22, US-23, US-30 e US-31, todas `Could`) permanecem no *backlog* sem *sprint* atribuída — três
+delas dependem de decisões ainda pendentes.
 
 ---
 

@@ -117,11 +117,12 @@ sem origem direta na elicitação estão marcados como `Derivado` e a razão da 
 
 | Prioridade | Quantidade | Épicos predominantes |
 |------------|-----------:|----------------------|
-| Must | 18 | EP-01, EP-02, EP-04, EP-06 |
+| Must | 21 | EP-01, EP-02, EP-04, EP-06 |
 | Should | 14 | EP-03, EP-05, EP-07 |
-| Could | 8 | EP-05, EP-07 |
+| Could | 5 | EP-05, EP-07 |
 | Won't | 4 | — |
+| **Total** | **44** (40 no escopo) | — |
 
-O MVP é composto pelos 18 requisitos `Must`: eles entregam o ciclo mínimo capaz de substituir a
+O MVP é composto pelos 21 requisitos `Must`: eles entregam o ciclo mínimo capaz de substituir a
 planilha — cadastrar produto, movimentar com autoria, ver saldo confiável, ser alertado e reconciliar
 por inventário.
